@@ -5,6 +5,12 @@
 ---Please ensure changing the Runtime Type under Runtime to GPU from CPU(otherwise the process can take much time than needed and it's unnecessary)---
 
 
+Dataset used ---> https://www.kaggle.com/datasets/salader/dogs-vs-cats
+
+
+
+
+kaggle.json can be found from kaggle profile then API
 
 line[13] is not important but rather you want to find the accuracy thus you can use it.
 
