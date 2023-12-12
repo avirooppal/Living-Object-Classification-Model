@@ -1,4 +1,4 @@
-# Living-Object-Classification-Model
+# Living-Object-Classification-Model-CNN
 
 ###IMPORTANT###
 
