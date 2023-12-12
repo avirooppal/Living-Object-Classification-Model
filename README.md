@@ -1,1 +1,11 @@
 # Living-Object-Classification-Model
+
+###IMPORTANT###
+
+---Please ensure changing the Runtime Type under Runtime to GPU from CPU(otherwise the process can take much time than needed and it's unnecessary)---
+
+
+
+line[13] is not important but rather you want to find the accuracy thus you can use it.
+
+About the Cat you can save a file name by cat.jpg and omit the path in line[17]
